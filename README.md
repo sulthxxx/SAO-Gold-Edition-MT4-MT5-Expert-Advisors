@@ -9,6 +9,7 @@ The files are shared for **educational, backtesting, and demonstration purposes 
 
 **MT4**
 - SAO4_GOLD_V1.ex4
+- SAO4_GOLD_V2.ex4 (with dynamic risk management)
 
 **MT5**
 - SAO5_GOLD_V1.ex5
@@ -23,7 +24,6 @@ No source code is included.
 
 - For **education, learning, and backtesting only**
 - **Not intended for live trading**
-- No guarantee of profitability
 - Use at your own risk
 - No commercial intent
 
@@ -31,9 +31,8 @@ No source code is included.
 
 ## 🔒 Notes
 
-- These are demo / marketing builds
+- These are demo builds
 - Functionality may be limited by design
-- The author is not responsible for any trading loss
 
 ---
 
